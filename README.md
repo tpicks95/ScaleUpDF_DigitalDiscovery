@@ -1,4 +1,4 @@
-# ScaleUpDF_DigitalDiscovery
+# Scale Up DataFactory
 The GPyOpt .py file and the data .xslx file can be downloaded and file paths changed appropriately within the code for this to run. Kinetic rates and yield data extractors can also be found here.
 
 The workflow for experimental planning goes:
